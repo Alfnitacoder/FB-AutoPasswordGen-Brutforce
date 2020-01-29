@@ -5,7 +5,7 @@ import sys
 import mechanize
 import random
 import time
-"""This Bruteforce"""
+"""This Bruteforce has been updated with CUPPY.py Common User Passwords Profiler"""
 payload = {}
 cookie = {}
 CONFIG = {}
