@@ -5,7 +5,13 @@ import sys
 import mechanize
 import random
 import time
-"""This Bruteforce has been updated with CUPPY.py Common User Passwords Profiler"""
+"""
+This Bruteforce has been updated with CUPPY.py Common User Passwords Profiler
+
+useage,
+python3 FBPGB.py
+
+"""
 payload = {}
 cookie = {}
 CONFIG = {}
